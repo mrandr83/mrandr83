@@ -1,3 +1,4 @@
+# About me
 - 👋 Hi, I’m @mrandr83
 - 👀 I’m interested in embedded systems
 - 🌱 I’m currently learning C
